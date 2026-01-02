@@ -30,8 +30,8 @@
 - 📫 How to reach me: **bhuyanlipsalin07@gmail.com**
 
 <!-- ================= CONNECT ================= -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/lipsalin-bhuyan-4b0492349" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -51,16 +51,17 @@
 </p>
 
 <!-- ================= LANGUAGES & TOOLS ================= -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right:10px;"/>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right:20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </p>
+
 
 <!-- ================= GITHUB STATS ================= -->
 <p align="center">
