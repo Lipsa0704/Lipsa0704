@@ -1,11 +1,11 @@
-![MasterHead](https://raw.githubusercontent.com/lipsa0704/lipsa0704/main/assets/banner.gif)
+![MasterHead]([https://raw.githubusercontent.com/lipsa0704/lipsa0704/main/assets/banner.gif](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))
 
 <h1 align="center">Hey 👋, I'm Lipsalin Bhuyan</h1>
 <h3 align="center">An aspiring Frontend Developer</h3>
 <img align="right" alt="coding image" width="400"
 src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-girl.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lipsa0704&label=Profile%20views&color=0e75b6&style=flat" alt="lipsa0704" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=lipsa0704&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966)" alt="lipsa0704" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipsa0704" alt="lipsa0704" /></a> </p>
 
