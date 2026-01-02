@@ -1,7 +1,9 @@
-[![MasterHead](https://chatgpt.com/backend-api/estuary/content?id=file_00000000447072099c40df98502747f6&ts=490935&p=fs&cid=1&sig=28a952faf147eae9e41b4210997e019bbb0d40d48745c061f8bf50ae5a95eae9&v=0)]
+![MasterHead](https://raw.githubusercontent.com/lipsa0704/lipsa0704/main/assets/banner.gif)
+
 <h1 align="center">Hey 👋, I'm Lipsalin Bhuyan</h1>
 <h3 align="center">An aspiring Frontend Developer</h3>
-<img align="right" alt="coding image" width="400" src="https://tenor.com/en-GB/view/coding-girl-gif-2332171326726785246">
+<img align="right" alt="coding image" width="400"
+src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipsa0704&label=Profile%20views&color=0e75b6&style=flat" alt="lipsa0704" /> </p>
 
