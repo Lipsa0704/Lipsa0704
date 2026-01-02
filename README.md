@@ -53,36 +53,33 @@
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 <!-- ================= GITHUB STATS ================= -->
-<p>
+<p align="center">
   <img 
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lipsa0704&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsa0704&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
 
-<p>
+<p align="center">
   <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=lipsa0704&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=lipsa0704&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
 
-<p>
+<p align="center">
   <img 
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lipsa0704"
+    src="https://streak-stats.demolab.com?user=lipsa0704&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
