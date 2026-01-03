@@ -62,25 +62,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-
-<!-- ================= GITHUB STATS ================= -->
+<h3 align="center">Projects:</h3>
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipsa0704&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+- ✨ **Quote Website** – A motivational quote website with a clean UI and dynamic content.
+- 💼 **Portfolio Website** – A responsive personal portfolio showcasing skills, projects, and contact information.
+- 🏋️ **Gym Website** – A modern fitness/gym website with sections for programs, trainers, and membership details.
+- 🌐 **Website Projects** – Multiple responsive websites built to practice modern frontend design and layouts.
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lipsa0704&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=lipsa0704&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
+⭐ If you like my work, consider starring my repositories!
