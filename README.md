@@ -47,7 +47,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://instagram.com/priya_7781" target="_blank">
+  <a href="https://instagram.com/lipsalin_bhuyan" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       height="30"
