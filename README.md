@@ -54,20 +54,20 @@
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin-right:20;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin-right:20;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right:20;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right:20;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right:20;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right:20;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 <h3 align="center">Projects:</h3>
 <h4>Quote Website </h4> – A motivational quote website with a clean UI and dynamic content.<br>
 <h4>Portfolio Website</h4> – A responsive personal portfolio showcasing skills, projects, and contact information.<br>
-<h4>Gym & Fitness Website</h4>– A modern fitness and gym website with sections for programs, trainers, and membership details and a store.
+<h4>Gym & Fitness Website</h4>– A modern fitness and gym website with sections for programs, trainers, and membership details and a store.<br> <br>
 
-<p align="center" margin-top="40">
+<p align="center">
 ⭐ If you like my work, consider starring my repositories!
 </p>
