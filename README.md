@@ -24,11 +24,11 @@
 
 <!-- ================= ABOUT ================= -->
 <h3 align="left">Aboout Me:</h3>
-- 🌱 I’m currently learning **MERN STACK**<br>
+- 🌱 I’m currently learning MERN STACK <br>
 - 👨‍💻 All of my projects are available at <br> 
 - 👉  https://github.com/Lipsa0704<br>
-- 💬 Ask me about **React Js,JAVA , C**<br>
-- 📫 How to reach me: **bhuyanlipsalin07@gmail.com**
+- 💬 Ask me about React Js,JAVA , C <br>
+- 📫 How to reach me: bhuyanlipsalin07@gmail.com
 <br>
 <!-- ================= Portfolio ================= -->
 <h3 align="left">My Portfolio:</h3>
