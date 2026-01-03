@@ -30,7 +30,8 @@
 - 📫 How to reach me: **bhuyanlipsalin07@gmail.com**
 
 <!-- ================= CONNECT ================= -->
-<h3 align="center">Connect with me:</h3>
+<br><br>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/lipsalin-bhuyan-4b0492349" target="_blank">
     <img 
@@ -50,9 +51,9 @@
     />
   </a>
 </p>
-
+<br><br>
 <!-- ================= LANGUAGES & TOOLS ================= -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -62,8 +63,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </p>
-
-<h3 align="center">Projects:</h3>
+<br>
+<br>
+<h3 align="left">Projects:</h3>
 <h4>Quote Website </h4> – A motivational quote website with a clean UI and dynamic content.<br>
 <h4>Portfolio Website</h4> – A responsive personal portfolio showcasing skills, projects, and contact information.<br>
 <h4>Gym & Fitness Website</h4>– A modern fitness and gym website with sections for programs, trainers, and membership details and a store.<br> <br>
