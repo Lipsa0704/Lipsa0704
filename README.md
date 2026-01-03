@@ -23,11 +23,16 @@
 </p>
 
 <!-- ================= ABOUT ================= -->
-- 🌱 I’m currently learning **React JS**
+<h3 align="left">Aboout Me:</h3>
+- 🌱 I’m currently learning **MERN STACK**
 - 👨‍💻 All of my projects are available at  
-  👉 https://lipsalin-bhuyan-portfolio.vercel.app/
-- 💬 Ask me about **React**
+  👉
+- 💬 Ask me about **React Js,JAVA , C**
 - 📫 How to reach me: **bhuyanlipsalin07@gmail.com**
+
+<!-- ================= Portfolio ================= -->
+<h3 align="left">My Portfolio:</h3>
+  -👉 https://lipsalin-bhuyan-portfolio.vercel.app/
 
 <!-- ================= CONNECT ================= -->
 <br><br>
@@ -51,7 +56,7 @@
     />
   </a>
 </p>
-<br><br>
+<br>
 <!-- ================= LANGUAGES & TOOLS ================= -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
