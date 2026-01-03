@@ -26,10 +26,10 @@
 <h3 align="left">Aboout Me:</h3>
 - 🌱 I’m currently learning **MERN STACK**
 - 👨‍💻 All of my projects are available at  
-  👉
+- 👉  https://github.com/Lipsa0704
 - 💬 Ask me about **React Js,JAVA , C**
 - 📫 How to reach me: **bhuyanlipsalin07@gmail.com**
-
+<br>
 <!-- ================= Portfolio ================= -->
 <h3 align="left">My Portfolio:</h3>
   -👉 https://lipsalin-bhuyan-portfolio.vercel.app/
