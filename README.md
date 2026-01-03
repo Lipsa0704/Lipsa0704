@@ -31,7 +31,7 @@
 
 <!-- ================= CONNECT ================= -->
 <br><br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/lipsalin-bhuyan-4b0492349" target="_blank">
     <img 
@@ -53,7 +53,7 @@
 </p>
 <br><br>
 <!-- ================= LANGUAGES & TOOLS ================= -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
