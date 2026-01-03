@@ -5,16 +5,6 @@
 <h1 align="center">Hey 👋, I'm Lipsalin Bhuyan</h1>
 <h3 align="center">An aspiring Frontend Developer</h3>
 
-<!-- ================= CODING GIF ================= -->
-<p align="center">
-  <img 
-    src="https://camo.githubusercontent.com/396deae72bcb2ee884a7bda8fd8fe783e67870b17697b2a9496a032a0f191985/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"
-    width="300"
-    height="200"
-    alt="coding animation"
-  />
-</p>
-
 <!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
   <img 
@@ -37,8 +27,8 @@
 
 <br><br>
 <!-- ================= LANGUAGES & TOOLS ================= -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
@@ -56,8 +46,8 @@
 
 <!-- ================= CONNECT ================= -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/lipsalin-bhuyan-4b0492349" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -77,6 +67,6 @@
   </a>
 </p>
 <br>
-<p align="center">
+<p align="left">
 ⭐ If you like my work, consider starring my repositories!
 </p>
