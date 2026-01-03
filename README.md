@@ -64,10 +64,11 @@
 
 <h3 align="center">Projects:</h3>
 <p align="center">
-- ✨ **Quote Website** – A motivational quote website with a clean UI and dynamic content.
-- 💼 **Portfolio Website** – A responsive personal portfolio showcasing skills, projects, and contact information.
-- 🏋️ **Gym Website** – A modern fitness/gym website with sections for programs, trainers, and membership details.
+- ✨ **Quote Website** – A motivational quote website with a clean UI and dynamic content.<br>
+- 💼 **Portfolio Website** – A responsive personal portfolio showcasing skills, projects, and contact information.<br>
+- 🏋️ **Gym Website** – A modern fitness/gym website with sections for programs, trainers, and membership details.<br>
 - 🌐 **Website Projects** – Multiple responsive websites built to practice modern frontend design and layouts.
 </p>
-
+<p align="center">
 ⭐ If you like my work, consider starring my repositories!
+</p>
