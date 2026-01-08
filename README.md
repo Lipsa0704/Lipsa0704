@@ -42,19 +42,34 @@
 <table>
 <tr>
 
-<td width="50%" style="border:1 solid #e1e4e8; border-radius:10; padding:16;">
+<td width="50%" >
 <h3>GYM AND FITNESS WEBSITE</h3>
 <p>A user-friendly static and responsive website , where a user can access the gym and do fitness courses and alomg with that user can purchase fitness items and accessories from the store</p>
 <b>Tech:</b>
 <br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+
 <br><br>
-<a href="#">🔗 Repo</a>
+<a href="#">[🔗 Repo](https://github.com/Lipsa0704/Gym-Fitness_Project)</a>
 </td>
 
-<td width="50%" style="border:1px solid #e1e4e8; border-radius:10px; padding:16px;">
+
+<td width="50%" ">
+<h3>QUOTESIDE</h3>
+<p>A static ,userfriendly website with responsive ui and has feature like accessing  different quotes and sharing and adding them to favourites .</p>
+<b>Tech:</b>
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+
+<br><br>
+<a href="#">[🔗 Repo](https://github.com/Lipsa0704/Quote_side)</a>
+</td>
+
+<td width="50%">
 <h3>🌐 Project Two</h3>
 <p>REST API for user authentication.</p>
 <b>Tech:</b>
@@ -62,7 +77,8 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens"/>
 <br><br>
-<a href="#">🔗 Repo</a>
+  <a href="#">[🔗 Repo](https://github.com/Lipsa0704/Lipsalin_Portfolio)</a>
+
 </td>
 
 </tr>
