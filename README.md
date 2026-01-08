@@ -42,9 +42,9 @@
 <table>
 <tr>
 
-<td width="50%" style="border:1px solid #e1e4e8; border-radius:10px; padding:16px;">
-<h3>📱 Project One</h3>
-<p>A mobile-friendly web app for task management.</p>
+<td width="50%" style="border:1 solid #e1e4e8; border-radius:10; padding:16;">
+<h3>GYM AND FITNESS WEBSITE</h3>
+<p>A user-friendly static and responsive website , where a user can access the gym and do fitness courses and alomg with that user can purchase fitness items and accessories from the store</p>
 <b>Tech:</b>
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
