@@ -73,7 +73,8 @@
 </td>
 
 
-<td width="50%" ">
+<td width="50%" 
+   margin-right="20">
 <h3>QUOTESIDE</h3>
 <p>A static ,userfriendly website with responsive ui and has feature like accessing  different quotes and sharing and adding them to favourites .</p>
 <b>Tech:</b>
