@@ -59,7 +59,7 @@
 <table>
 <tr>
 
-<td width="50%" >
+<td width="50%" style="margin:6px; border-radius:12px;">
 <h3>GYM AND FITNESS WEBSITE</h3>
 <p>A user-friendly static and responsive website , where a user can access the gym and do fitness courses and alomg with that user can purchase fitness items and accessories from the store</p>
 <b>Tech:</b>
@@ -74,7 +74,7 @@
 
 
 <td width="50%" 
-   margin-right="20">
+    style="margin:6px; border-radius:12px;">
 <h3>QUOTESIDE</h3>
 <p>A static ,userfriendly website with responsive ui and has feature like accessing  different quotes and sharing and adding them to favourites .</p>
 <b>Tech:</b>
@@ -85,18 +85,6 @@
 
 <br><br>
 <a href="#">[🔗 Repo](https://github.com/Lipsa0704/Quote_side)</a>
-</td>
-
-<td width="50%">
-<h3>🌐 Project Two</h3>
-<p>REST API for user authentication.</p>
-<b>Tech:</b>
-<br>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens"/>
-<br><br>
-  <a href="#">[🔗 Repo](https://github.com/Lipsa0704/Lipsalin_Portfolio)</a>
-
 </td>
 
 </tr>
