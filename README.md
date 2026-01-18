@@ -23,7 +23,7 @@
 <br>
 <!-- ================= Portfolio ================= -->
 <h3 align="left">My Portfolio:</h3>
-  -👉 https://lipsalin-bhuyan-portfolio.vercel.app/
+  -👉 https://lipsalinbhuyanportfolio.vercel.app/
 
 <br><br>
 <!-- ================= LANGUAGES & TOOLS ================= -->
